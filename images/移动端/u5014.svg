@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="21px" height="22px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1 0 0 1 -745 -1963 )">
+    <path d="M 745 1963  L 766 1963  L 766 1985  L 745 1985  L 745 1963  " fill-rule="nonzero" fill="#cccccc" stroke="none" />
+    <path d="M 746 1964  L 765 1964  L 765 1984  L 746 1984  L 746 1964  " fill-rule="nonzero" fill="#ffffff" stroke="none" />
+    <path d="M 757.495 1969.45  C 756.613 1969.45  755.92 1968.757  755.92 1967.875  C 755.92 1966.993  756.613 1966.3  757.495 1966.3  C 758.377 1966.3  759.07 1966.993  759.07 1967.875  C 759.07 1968.757  758.377 1969.45  757.495 1969.45  " fill-rule="nonzero" fill="#cccccc" stroke="none" />
+    <path d="M 747 1984  L 747 1973.55  L 751.5 1968.8  L 757.8 1972.6  L 761.4 1971.65  L 765 1972.6  L 765 1984  L 747 1984  " fill-rule="nonzero" fill="#169bd5" stroke="none" />
+  </g>
+</svg>
